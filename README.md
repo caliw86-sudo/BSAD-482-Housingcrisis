@@ -1,14 +1,16 @@
 # Housing Supply Strategy in North Vancouver
 README.md
-Project Title
+
 Housing Supply Strategy in North Vancouver: Densification vs. Greenfield Constraints
 
 ​​## Decision Statement
-Should the Director of Planning for the City of North Vancouver prioritize missing-middle densification within established neighbourhoods or continue limiting growth given land and infrastructure constraints in the 2026–2029 housing strategy?
+Should the Director of Planning for the City of North Vancouver prioritize missing-middle densification within existing neighbourhoods to address housing affordability under land and infrastructure constraints between 2026 and 2029?
+
 ## Executive Summary
-The City of North Vancouver faces intense housing affordability pressures driven by population growth, limited developable land, and its proximity to Metro Vancouver’s regional labour market. As housing demand continues to outpace supply, rents and home prices have increased sharply, placing growing strain on residents, employers, and municipal services. The Director of Planning must recommend a housing supply strategy that meaningfully addresses affordability while respecting physical, political, and infrastructure constraints unique to the city.
-Unlike many municipalities, North Vancouver has minimal greenfield land available for suburban expansion. As a result, the primary policy lever available to planners is missing-middle densification—including duplexes, triplexes, four-plexes, secondary suites, and small apartment buildings within existing neighbourhoods. While this approach can increase supply without expanding the urban footprint, it often encounters neighbourhood opposition, infrastructure capacity concerns, and lengthy approval processes.
-This decision is complex because increasing housing supply can trigger reinforcing feedback loops. Rising prices increase political pressure and resistance to change, which can slow approvals and constrain supply further. Infrastructure limitations and construction delays add additional friction. This project applies decision intelligence and systems thinking to map these dynamics and evaluate how densification policies may perform over time. The goal is to provide evidence-based insights that help the Planning Director choose a strategy that improves affordability while remaining feasible within North Vancouver’s constraints.
+The City of North Vancouver faces persistent housing affordability challenges driven by strong regional demand, geographic constraints, and limited developable land. As part of the Metro Vancouver region, the city attracts residents seeking proximity to employment centres, transit access, and urban amenities. However, physical barriers such as mountains and waterways, combined with an already built-out urban form, leave little opportunity for greenfield suburban expansion. As a result, housing supply has struggled to keep pace with demand, contributing to low vacancy rates and rising housing costs.
+The Director of Planning must decide whether to more aggressively prioritize missing-middle densification, including duplexes, triplexes, secondary suites, coach houses, and small apartment buildings, as the primary strategy to increase housing supply. While densification offers potential benefits such as more efficient land use, reduced sprawl, and better use of existing infrastructure, it also introduces tensions related to neighbourhood opposition, infrastructure strain, and development approval delays. These factors create uncertainty around whether densification policies can deliver meaningful affordability improvements in the short to medium term.
+This project applies decision intelligence and systems thinking to support this planning decision. Rather than focusing solely on descriptive housing trends, the analysis examines how feedback loops between housing demand, prices, political resistance, infrastructure capacity, and approval timelines shape outcomes over time. The objective is to provide evidence-based insights that help the Director of Planning choose a strategy that improves affordability while remaining feasible within local and provincial constraints.
+
 ## Initial Causal Loop Diagram
 See cld-draft.png
 
