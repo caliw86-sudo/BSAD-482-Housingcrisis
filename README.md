@@ -12,7 +12,7 @@ The Director of Planning must decide whether to more aggressively prioritize mis
 This project applies decision intelligence and systems thinking to support this planning decision. Rather than focusing solely on descriptive housing trends, the analysis examines how feedback loops between housing demand, prices, political resistance, infrastructure capacity, and approval timelines shape outcomes over time. The objective is to provide evidence-based insights that help the Director of Planning choose a strategy that improves affordability while remaining feasible within local and provincial constraints.
 
 ## Initial Causal Loop Diagram
-See cld-draft.png
 
+![IInitial Causal Loop Diagram](img/cld-draft.png.jpg)
 
 
