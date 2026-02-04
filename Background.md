@@ -11,12 +11,14 @@ This decision context is also shaped by recent provincial housing legislation in
 
 Key stakeholders affected by this decision include renters and prospective homebuyers facing affordability challenges, existing residents concerned about neighbourhood change, developers responding to regulatory incentives and approval timelines, municipal taxpayers funding infrastructure upgrades, and provincial authorities shaping the regulatory environment. This project applies systems thinking and decision intelligence to help the Director of Planning understand how these competing forces interact, informing a realistic and evidence-based housing supply strategy for North Vancouver.
 
-References:
+# References:
+
 CMHC. (2025, December 11). 2025 rental market report. https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres 
 Official Community Plan (OCP) update 2025. District of North Vancouver Website. (2026, January 29). https://www.dnv.org/community-environment/official-community-plan-update-2025 
 Luciano, A. (2025, December 10). North Vancouver District Council approves plan on Future Housing Growth. North Vancouver district council approves plan on future housing growth. https://www.nsnews.com/local-news/north-vancouver-district-council-approves-plan-on-future-housing-growth-11602616 
 
-Datasets:
+# Datasets:
+
 https://www.cmhc-schl.gc.ca
 https://www.statcan.gc.ca 
 https://www.dnv.org/community-environment/official-community-plan-update-2025
