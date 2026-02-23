@@ -23,14 +23,14 @@ Luciano, A. (2025, December 10). North Vancouver District Council approves plan 
 Rental Market Survey – Metro Vancouver and selected CMAs  
 - Variables: Average rent, vacancy rate, housing type  
 - Use: Analyze housing affordability and supply dynamics over time  
-- Source: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/data-tables  
+- Source: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/data-tables/rental-market/rental-market-report-data-tables?pdf_geo=F31F2160-40D5-42FB-A13A-F8353703523A$pdf_edition=309ACF38-9EA5-4742-8750-01F768A3FA70 
 
 **Statistics Canada**  
 Population estimates by census subdivision and province  
 - Variables: Annual population estimates  
 - Table: 17-10-0009-01  
 - Use: Proxy for housing demand growth over time  
-- Source: https://www.statcan.gc.ca  
+- Source: https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/Page.cfm?Lang=E&Dguid=2021A00055915051&topic=1 
 
 **District of North Vancouver**  
 Official Community Plan Update 2025  
