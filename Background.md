@@ -17,15 +17,24 @@ CMHC. (2025, December 11). 2025 rental market report. https://www.cmhc-schl.gc.c
 Official Community Plan (OCP) update 2025. District of North Vancouver Website. (2026, January 29). https://www.dnv.org/community-environment/official-community-plan-update-2025 
 Luciano, A. (2025, December 10). North Vancouver District Council approves plan on Future Housing Growth. North Vancouver district council approves plan on future housing growth. https://www.nsnews.com/local-news/north-vancouver-district-council-approves-plan-on-future-housing-growth-11602616 
 
-# Datasets:
+## Planned Datasets
 
-https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres
+**Canada Mortgage and Housing Corporation (CMHC)**  
+Rental Market Survey – Metro Vancouver and selected CMAs  
+- Variables: Average rent, vacancy rate, housing type  
+- Use: Analyze housing affordability and supply dynamics over time  
+- Source: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/data-tables  
 
-https://geoprod.statcan.gc.ca/datatomap/index.html?action=wf_identify&value={%27layers%27:[{%27values%27:[%272021A00055915051%27],%27id%27:%27A0005%27}]}
+**Statistics Canada**  
+Population estimates by census subdivision and province  
+- Variables: Annual population estimates  
+- Table: 17-10-0009-01  
+- Use: Proxy for housing demand growth over time  
+- Source: https://www.statcan.gc.ca  
 
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710015501&geocode=A00055915051
-
-https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/data-tables/housing-market-indicators?pdf_geo=F31F2160-40D5-42FB-A13A-F8353703523A$pdf_edition=58DAC1FB-B82D-46BE-8598-6EF4715FAF55
-
+**District of North Vancouver**  
+Official Community Plan Update 2025  
+- Use: Policy context and planning constraints (qualitative support for CLD)  
+- Source: https://www.dnv.org/community-environment/official-community-plan-update-2025
 
 
