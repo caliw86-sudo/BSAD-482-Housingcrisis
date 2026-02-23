@@ -1,0 +1,11 @@
+REF_DATE,GEO,DGUID,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2021,"Vancouver (CY), British Columbia",2021A00055915022,Persons,249,units,0,v1592185017,4334,696031,,,,0
+2022,"Vancouver (CY), British Columbia",2021A00055915022,Persons,249,units,0,v1592185017,4334,708220,,,,0
+2023,"Vancouver (CY), British Columbia",2021A00055915022,Persons,249,units,0,v1592185017,4334,732005,,,,0
+2024,"Vancouver (CY), British Columbia",2021A00055915022,Persons,249,units,0,v1592185017,4334,748788,,,,0
+2025,"Vancouver (CY), British Columbia",2021A00055915022,Persons,249,units,0,v1592185017,4334,740454,,,,0
+2021,"North Vancouver (CY), British Columbia",2021A00055915051,Persons,249,units,0,v1592185026,4353,60951,,,,0
+2022,"North Vancouver (CY), British Columbia",2021A00055915051,Persons,249,units,0,v1592185026,4353,62818,,,,0
+2023,"North Vancouver (CY), British Columbia",2021A00055915051,Persons,249,units,0,v1592185026,4353,64743,,,,0
+2024,"North Vancouver (CY), British Columbia",2021A00055915051,Persons,249,units,0,v1592185026,4353,66901,,,,0
+2025,"North Vancouver (CY), British Columbia",2021A00055915051,Persons,249,units,0,v1592185026,4353,66624,,,,0
