@@ -19,18 +19,13 @@ Luciano, A. (2025, December 10). North Vancouver District Council approves plan 
 
 # Datasets:
 
-https://www.cmhc-schl.gc.ca
-> [!WARNING]
->  I didn't see usable data here
+https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres
 
-https://www.statcan.gc.ca 
-> [!WARNING]
-> Specifically what data?
+https://geoprod.statcan.gc.ca/datatomap/index.html?action=wf_identify&value={%27layers%27:[{%27values%27:[%272021A00055915051%27],%27id%27:%27A0005%27}]}
 
-https://www.dnv.org/community-environment/official-community-plan-update-2025
-> [!WARNING]
->  I didn't see usable data here
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710015501&geocode=A00055915051
 
-> [!TIP]
-> Try CMHC data tables https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/data-tables
+https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/data-tables/housing-market-indicators?pdf_geo=F31F2160-40D5-42FB-A13A-F8353703523A$pdf_edition=58DAC1FB-B82D-46BE-8598-6EF4715FAF55
+
+
 
