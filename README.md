@@ -23,3 +23,5 @@ This project applies decision intelligence and systems thinking to support this 
 ![Condo_vs_purpose_growth](img/Condo_vs_purpose_growth.png)
 
 ![Net_housining_supply_change_and_rental_affordability_under_population_growth](img/Net_housining_supply_change_and_rental_affordability_under_population_growth.png)
+
+![Population_growth_and_annual_housing_supply_change](img/Population_growth_and_annual_housing_supply_change.png)
