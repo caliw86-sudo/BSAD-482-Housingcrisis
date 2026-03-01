@@ -37,5 +37,6 @@ This dataset analyzes the relationship between annual net housing supply change 
 This dataset compares steady population growth with annual net housing supply change in North Vancouver. The population trend shows a consistent and gradual upward trajectory across the study period, indicating sustained demand growth. In contrast, housing supply fluctuates significantly from year to year, with periods of strong expansion followed by weaker growth. In several years, population growth outpaced housing expansion. This pattern supports the Reinforcing Demand Pressure Loop (R1) in the CLD, where Population Growth increases Housing Demand, which places upward pressure on Rent Levels. Because supply does not consistently match demand growth, pressure accumulates within the system, strengthening the reinforcing loop and contributing to long-term affordability strain.
 ![Population_growth_and_annual_housing_supply_change](img/Population_growth_and_annual_housing_supply_change.png)
 
-##Refined CLD
+## Refined CLD
+
 
