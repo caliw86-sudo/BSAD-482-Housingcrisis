@@ -19,3 +19,5 @@ This project applies decision intelligence and systems thinking to support this 
 ## MileStone 2 Changes
 
 ![Avg_1-bedroom_rent_in_north_vancouver](img/Avg_1-bedroom_rent_in_north_vancouver.png)
+
+![Condo_vs_purpose_growth](img/Condo_vs_purpose_growth.png)
