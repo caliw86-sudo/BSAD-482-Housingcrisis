@@ -16,3 +16,6 @@ This project applies decision intelligence and systems thinking to support this 
 ![IInitial Causal Loop Diagram](img/cld-draft.png.jpg)
 
 
+## MileStone 2 Changes
+
+![Avg_1-bedroom_rent_in_north_vancouver](img/Avg_1-bedroom_rent_in_north_vancouver.png)
