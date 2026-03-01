@@ -38,5 +38,25 @@ This dataset compares steady population growth with annual net housing supply ch
 ![Population_growth_and_annual_housing_supply_change](img/Population_growth_and_annual_housing_supply_change.png)
 
 ## Refined CLD
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9c9cfbb5-ee9e-4f00-9430-2270a2afcd1d" />
 
+## Explanation of Key Feedback Loops and Implications for the Decision
+## Reinforcing Loop (R1): Demand Pressure Loop
+The first dominant structure in the system is the Reinforcing Demand Pressure Loop (R1). In this loop, Population Growth increases Housing Demand (+). Increased housing demand drives Average Rent and Home Prices upward (+). Rising prices improve Development Viability (+), which stimulates Housing Construction (+). However, because construction has been volatile and does not consistently match the pace of demand growth, Net Housing Supply does not expand sufficiently to offset rising demand. As a result, affordability continues to decline.
+The data strongly supports this reinforcing dynamic. Population growth follows a steady upward trend, and average rent increases consistently across the study period. Even during years of higher construction activity, rent levels do not decline. This indicates that demand pressure is persistent and structurally embedded in the system.
+
+## Implication
+Without intervention, the reinforcing loop will continue driving rents upward. Incremental or reactive increases in supply are unlikely to meaningfully stabilize affordability because demand growth remains constant and predictable.
+
+## Balancing Loop (B1): Supply Response Loop
+The second key structure is the Balancing Supply Response Loop (B1). In this loop, increased Housing Construction expands Net Housing Supply (+), which is expected to moderate Rent Growth (−). Lower rent growth should reduce Affordability Pressure and stabilize the system over time.
+The empirical evidence shows that this balancing mechanism exists but is weak. Higher net housing supply appears to slightly moderate rent growth in some years, but it does not reverse the overall upward rent trajectory. This suggests that while supply expansion does exert downward pressure on rents, it has not been large or sustained enough to counteract demand-driven pressures.
+
+## Implication
+The balancing loop is currently weaker than the reinforcing loop. For policy to meaningfully improve affordability, it must strengthen this balancing mechanism. This requires sustained and predictable increases in housing supply, not short-term construction spikes.
+
+## Overall System Implication for the Decision
+The interaction between these two loops explains why affordability pressures persist in North Vancouver. The Reinforcing Demand Loop (R1) is dominant, while the Balancing Supply Loop (B1) is present but insufficient.
+For the Director of Planning, this suggests that aggressive missing-middle densification could serve as a leverage point within the system. By increasing long-term housing supply, reducing approval delays, and improving construction consistency, policy intervention can strengthen the balancing loop and reduce the dominance of the reinforcing demand loop.
+The data indicates that the system will not self-correct. Structural intervention is required to shift the balance between these feedback loops and improve long-term housing affordability.
 
