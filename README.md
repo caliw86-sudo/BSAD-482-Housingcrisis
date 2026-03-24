@@ -60,7 +60,7 @@ The interaction between these two loops explains why affordability pressures per
 From a decision-making perspective, this suggests that policy intervention is required to strengthen the balancing loop. The most effective leverage points in the system include reducing approval delays and enabling more consistent and long-term housing supply increases. Without addressing these structural constraints, the system will not self-correct, and affordability challenges will continue to intensify.
 
 
-## Mileston 3: Path A (System Focus) - System Archetype anaylsis 
+## Milestone 3: Path A (System Focus) - System Archetype anaylsis 
 
 ### Archetype: Limits to Growth
 The housing system in North Vancouver reflects the **Limits to Growth** archetype. In this structure, an initial reinforcing process creates pressure for growth, but that growth is eventually slowed by structural constraints. In this project, population growth increases housing demand, which contributes to rising rents and stronger development incentives. These forces encourage additional housing construction and create pressure for supply expansion.
