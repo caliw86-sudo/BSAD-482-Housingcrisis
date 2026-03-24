@@ -36,7 +36,8 @@ This dataset compares steady population growth with annual net housing supply ch
 ![Population_growth_and_annual_housing_supply_change](img/Population_growth_and_annual_housing_supply_change.png)
 
 ## Refined CLD
-<img width="612" height="792" alt="BSAD 482-2" src="https://github.com/user-attachments/assets/d5d2b351-bc86-4ecf-848d-fbf335530c85" />
+<img width="792" height="612" alt="Refined CLD " src="https://github.com/user-attachments/assets/c8bdcbd7-1834-494a-bc57-8f31ba364f92" />
+
 
 ### Explanation of Key Feedback Loops and Implications for the Decision
 
