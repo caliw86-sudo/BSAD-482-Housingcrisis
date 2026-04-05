@@ -130,3 +130,16 @@ The aggressive densification and process reform scenario offers the most promisi
 However, there are important uncertainties to consider. Political resistance, infrastructure capacity, and implementation consistency may affect how effective these interventions are in practice. These factors introduce risk into even the most promising scenario.
 
 Overall, the analysis suggests that maintaining the current approach is unlikely to improve affordability outcomes. More proactive intervention is required to strengthen the system’s response to demand. This provides a strong foundation for recommending targeted policy changes in the next stage of the project.
+
+
+## Recommendation Section 
+The City of North Vancouver should prioritize a more aggressive missing-middle densification strategy as the primary approach to improving housing affordability. Based on the analysis, increasing housing supply within existing neighbourhoods is the most effective way to address the persistent imbalance between demand and supply.
+The evidence shows that population growth has been steady and predictable, while housing supply has been inconsistent and reactive. This has led to continuous increases in rent levels, reinforcing affordability pressures over time. The causal loop diagram highlights that the demand-driven reinforcing loop is currently stronger than the supply response loop, meaning that without intervention, affordability will continue to worsen.
+While increasing housing supply is critical, the analysis also shows that supply alone is not enough if structural constraints remain. Approval delays, neighbourhood opposition, and infrastructure limitations slow down the delivery of new housing. Therefore, densification policies must be paired with faster approval processes and more consistent construction activity to strengthen the balancing loop.
+There are still uncertainties to consider. External policy changes at the provincial level, economic conditions, and construction costs could impact how effective densification strategies are over time. Additionally, the social acceptance of increased density may influence how quickly policies can be implemented.
+To move forward, the Director of Planning should focus on three key actions: expanding zoning permissions for missing-middle housing, reducing approval timelines, and investing in infrastructure to support higher density. Additional data on construction timelines and approval bottlenecks would further strengthen future analysis.
+
+## Limitations 
+This analysis has several limitations. First, the dataset is relatively small, which limits the strength of some statistical relationships, particularly in the scatter analysis. Second, some variables in the system, such as neighbourhood opposition and approval delays, are not directly measured and are instead inferred from system behavior. Third, the analysis assumes that past trends will continue, which may not hold if major policy changes occur.
+Despite these limitations, the combination of data analysis and system dynamics provides a strong foundation for understanding the key drivers of housing affordability in North Vancouver.
+
